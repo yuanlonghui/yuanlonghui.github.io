@@ -1,0 +1,13 @@
+{
+    "name": "Longhui Yuan",
+    "homepage": "https://github.com/yuanlonghui.github.io",
+    "github": "https://github.com/yuanlonghui",
+    "scholar": "https://scholar.google.com/citations?user=fVnEIZEAAAAJ&hl=zh-CN", 
+    "email": "longhuiyuan@bit.edu.cn",
+    "photo": "/custom/images/photo.jpg",
+    "degree": "Master's Student",
+    "organization": "Beijing Institute of Technology",
+    "organization_url": "https://bit.edu.cn",
+    "address": "Room 1101, Central building, Beijing Institute of Technology, Beijing",
+    "introduction": ["I am a master's student at Beijing Institute of Technology, advised by Prof. Shuang Li. I received my Bachelor's degree in Computer Science from BIT(2018-2022)", "My research interests include transfer learning, data-efficient learning and online learning (particularly domain adaptation, active learning, test-time adaptation, source-free domain adaptation) across vision tasks and domains."]
+}

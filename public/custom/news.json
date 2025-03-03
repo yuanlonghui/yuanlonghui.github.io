@@ -1,0 +1,20 @@
+{
+    "news":[
+        {
+            "timestamp": "Sep 2023",
+            "content": "Our EovS on Domain Generalization is accepted by NeurIPS 2023!"
+        },
+        {
+            "timestamp": "Feb 2023",
+            "content": "Our RoTTA on test-time adaptation is accepted by CVPR 2023!"
+        },
+        {
+            "timestamp": "Mar 2022",
+            "content": "Our RIPU on active domain adaptation is accepted by CVPR 2022 as oral presentation!"
+        },
+        {
+            "timestamp": "Dec 2021",
+            "content": "Our EADA on active domain adaptation is accepted by AAAI 2022!"
+        }
+    ]
+}
