@@ -8,6 +8,11 @@
             "path": "/custom/blogs/SSM.md"
         },
         {
+            "content": "Auto Gradient (自动微分)",
+            "timestamp": "2024/06/26",
+            "path": "/custom/blogs/auto gradient.ipynb"
+        },
+        {
             "content": "Score Matching",
             "timestamp": "2024/5/20",
             "path": "/custom/blogs/score_matching.md"
@@ -17,6 +22,5 @@
             "timestamp": "2023/12/17",
             "path": "/custom/blogs/diffusion.md"
         }
-        
     ]
 }
