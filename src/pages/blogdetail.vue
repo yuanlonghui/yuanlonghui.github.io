@@ -178,4 +178,10 @@ pre {
   margin-bottom: 10px;
   white-space: pre-wrap;
 }
+
+@media (max-width: 768px) {
+  .blog-detail {
+    width: 95%;  /* 手机设备下占据95%的宽度 */
+  }
+}
 </style>
