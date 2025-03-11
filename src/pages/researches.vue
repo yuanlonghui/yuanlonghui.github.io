@@ -128,4 +128,10 @@ a:hover {
 .social_row p a el-icon {
   margin-right: 5px;
 }
+
+@media (max-width: 768px) {
+  .info {
+    width: 95%;  /* 手机设备下占据95%的宽度 */
+  }
+}
 </style>
