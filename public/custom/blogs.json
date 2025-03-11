@@ -1,7 +1,26 @@
 {
     "blogs":
-    [
-        
+    [   
+        {
+            "content": "Distributed Training",
+            "timestamp": "2025/01/01",
+            "path": "/custom/blogs/Distributed Training.ipynb"
+        },
+        {
+            "content": "VAE and DDPM",
+            "timestamp": "2025/01/01",
+            "path": "/custom/blogs/VAE and DDPM.ipynb"
+        },
+        {
+            "content": "Magic Einops",
+            "timestamp": "2024/12/28",
+            "path": "/custom/blogs/Magic einops.ipynb"
+        },
+        {
+            "content": "Fancy Indexing",
+            "timestamp": "2024/12/28",
+            "path": "/custom/blogs/Fancy Indexing.ipynb"
+        },
         {
             "content": "State Space Model",
             "timestamp": "2024/10/8",

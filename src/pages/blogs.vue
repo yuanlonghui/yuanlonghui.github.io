@@ -39,6 +39,7 @@ onMounted(async () => {
 });
 
 const goToBlog = (mdPath: string) => {
+  console.log("路径：", mdPath)
   router.push({ name: '/blogdetail', query: { path: mdPath } });
 };
 
