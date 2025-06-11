@@ -47,7 +47,7 @@ blog_framework
     │  │  paper.vue                 # 论文展示的组件，根据读取出的内容自动渲染
     │  │  
     │  └─layouts
-    │          BaseHeader.vue       # 定义目录界面内容，如果想要添加内容，请将其与 src/pages 中的稳健进行对应
+    │          BaseHeader.vue       # 定义目录路由内容，如果想要添加内容，请将其与 src/pages 中的文件进行对应
     │      
     └─pages
            blogdetail.vue           # 根据 public/blogs.json 提供的路径读取博客内容，进行渲染，支持 .md，.ipynb 两种格式
