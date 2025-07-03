@@ -3,7 +3,7 @@
         {
             "title": "Robust Test-Time Adaptation in Dynamic Scenarios",
             "conference": "CVPR 2023",
-            "authors": "Longhui Yuan, Binhui Xie, Shuang Li",
+            "authors": "<b style='font-style: italic'>Longhui Yuan</b>, Binhui Xie, Shuang Li",
             "introduction": "We propose a practical test-time adaptation setting that takes the distribution change and correlative sampling into account simultaneously, and lunch a novel robust test-time adaptation method to tackle problems in PTTA.",
             "paper_link": "https://arxiv.org/abs/2303.13899",
             "code_link": "https://github.com/BIT-DA/RoTTA",
@@ -12,7 +12,7 @@
         {
             "title": "Evolving Standardization for Continual Domain Generalization over Temporal Drift",
             "conference": "NeurIPS 2023",
-            "authors": "Mixue Xie, Shuang Li, Longhui Yuan, Chi Harold Liu, Zehui Dai",
+            "authors": "Mixue Xie, Shuang Li, <b style='font-style: italic'>Longhui Yuan</b>, Chi Harold Liu, Zehui Dai",
             "introduction": "We propose the Continual Domain Generalization over Temporal Drift (CDGTD) to addresses the challenge of gradually shifting data distributions over time and lunch an Evolving Standardization (EvoS) method to tackle problems of CDGTD.",
             "paper_link": "https://openreview.net/forum?id=5hVXbiEGXB",
             "code_link": "https://github.com/BIT-DA/EvoS",
@@ -21,7 +21,7 @@
         {
             "title": "Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation",
             "conference": "CVPR 2022 (Oral)",
-            "authors": "Binhui Xie, Longhui Yuan, Shuang Li, Chi Harold Liu, Xinjing Cheng",
+            "authors": "Binhui Xie, <b style='font-style: italic'>Longhui Yuan</b>, Shuang Li, Chi Harold Liu, Xinjing Cheng",
             "introduction": "A region-based acquisition strategy for DA Segmentation queries image regions that are both diverse in spatial adjacency and uncertain in prediction output.",
             "paper_link": "https://arxiv.org/abs/2111.12940",
             "code_link": "https://github.com/BIT-DA/RIPU",
@@ -30,7 +30,7 @@
         {
             "title": "Active Learning for Domain Adaptation: An Energy-based Approach",
             "conference": "AAAI 2022",
-            "authors": "Binhui Xie, Longhui Yuan, Shuang Li, Chi Harold Liu, Xinjing Cheng, Guoren Wang",
+            "authors": "Binhui Xie, <b style='font-style: italic'>Longhui Yuan</b>, Shuang Li, Chi Harold Liu, Xinjing Cheng, Guoren Wang",
             "introduction": "A new perspective to select a highly informative subset of unlabeled target data under domain shift via exploiting free energy biases across domains.",
             "paper_link": "https://arxiv.org/abs/2112.01406",
             "code_link": "https://github.com/BIT-DA/EADA",
@@ -41,7 +41,7 @@
         {
             "title": "Generalized Robust Test-Time Adaptation in Continuous Dynamic Scenarios",
             "conference": "technique report",
-            "authors": "Shuang Li, Longhui Yuan, Binhui Xie, Tao Yang",
+            "authors": "Shuang Li, <b style='font-style: italic'>Longhui Yuan</b>, Binhui Xie, Tao Yang",
             "introduction": "We extend our preliminary work RoTTA to a generalized approach, i.e., GRoTTA.",
             "paper_link": "https://arxiv.org/abs/2310.04714",
             "code_line": "",
@@ -50,7 +50,7 @@
         {
             "title": "Few Clicks Suffice: Active Test-Time Adaptation for Semantic Segmentation",
             "conference": "technique report",
-            "authors": "Longhui Yuan, Shuang Li, Zhuo He, Binhui Xie",
+            "authors": "<b style='font-style: italic'>Longhui Yuan</b>, Shuang Li, Zhuo He, Binhui Xie",
             "introduction": "We propose the active test-time adaptation for semantic segmentation setup and launch a simple but effective framework, i.e., ATASeg.",
             "paper_link": "https://arxiv.org/abs/2312.01835",
             "code_line": "",

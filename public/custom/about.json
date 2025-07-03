@@ -5,9 +5,9 @@
     "scholar": "https://scholar.google.com/citations?user=fVnEIZEAAAAJ&hl=zh-CN", 
     "email": "longhuiyuan@bit.edu.cn",
     "photo": "/custom/images/photo.jpg",
-    "degree": "Master's Student",
+    "degree": "Master's",
     "organization": "Beijing Institute of Technology",
     "organization_url": "https://bit.edu.cn",
     "address": "Room 1101, Central building, Beijing Institute of Technology, Beijing",
-    "introduction": ["I am a master's student at Beijing Institute of Technology, advised by Prof. Shuang Li. I received my Bachelor's degree in Computer Science from BIT(2018-2022)", "My research interests include transfer learning, data-efficient learning and online learning (particularly domain adaptation, active learning, test-time adaptation, source-free domain adaptation) across vision tasks and domains."]
+    "introduction": ["I am a postgraduate student graduated from Beijing Institute of Technology, under the supervision of <a href='https://shuangli.xyz/'>Prof. Li Shuang</a>. I received my Bachelor's degree (2018-2022) and Master's degree (2022-2025) in Computer Science and Technology from Beijing Institute of Technology.", "Currently, my most interested area is generative AI, especially in the field of image generation."]
 }

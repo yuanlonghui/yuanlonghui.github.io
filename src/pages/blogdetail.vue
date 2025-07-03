@@ -7,6 +7,7 @@
     <div v-if="isNotebook" v-html="renderedNotebook" class="notebook-content"></div>
     <div v-if="!isMarkdown && !isNotebook" class="unsupported-file">不支持的文件格式</div>
   </div>
+  <BackToTop />
 </template>
 
 <script lang="ts" setup>

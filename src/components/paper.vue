@@ -1,15 +1,13 @@
 <template>
     <div class="paper-card">
         <!-- 论文标题 -->
-        <h2>
-        <strong>{{ title }}</strong>
-        </h2>
+        <h2 v-html="title"></h2>
 
         <!-- 会议信息 -->
-        <p class="conference">{{ conference }}</p>
+        <p class="conference" v-html="conference"></p>
 
         <!-- 作者信息 -->
-        <p class="authors">{{ authors }}</p>
+        <p class="authors" v-html="authors"></p>
 
         <!-- 论文配图 -->
         <div class="paper-image">
@@ -17,7 +15,7 @@
         </div>
 
         <!-- 论文介绍 -->
-        <p class="introduction">{{ introduction }}</p>
+        <p class="introduction" v-html="introduction"></p>
 
         <!-- 论文和代码链接 -->
         <div class="links">

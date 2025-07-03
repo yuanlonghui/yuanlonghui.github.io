@@ -41,6 +41,7 @@
       </div>
     </div>
   </div>
+  <BackToTop />
 </template>
 
 <script lang="ts" setup>
