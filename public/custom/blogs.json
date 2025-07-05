@@ -1,8 +1,37 @@
 {
-    "blogs":
-    [   
+    "blogs":[   
         {
-            "content": "Distributed Training",
+            "content": "SDE & Score Matching",
+            "timestamp": "writing",
+            "path":"/custom/blogs/coming.md"
+        },
+        {
+            "content": "ODE & Flow Matching",
+            "timestamp": "writing",
+            "path":"/custom/blogs/coming.md"
+        },
+        {
+            "content": "Linear ODE/SED（线性 常/随机 微分方程）",
+            "timestamp": "writing",
+            "path":"/custom/blogs/coming.md"
+        },
+        {
+            "content": "Fokker–Planck Equation（F-K 方程）",
+            "timestamp": "writing",
+            "path":"/custom/blogs/coming.md"
+        },
+        {
+            "content": "Stochastic Process（随机过程简介）",
+            "timestamp": "writing",
+            "path":"/custom/blogs/coming.md"
+        },
+        {
+            "content": "Matrix Determinant（矩阵行列式）",
+            "timestamp": "writing",
+            "path":"/custom/blogs/coming.md"
+        },
+        {
+            "content": "Distributed Training（分布式训练简介）",
             "timestamp": "2025/01/01",
             "path": "/custom/blogs/Distributed Training.ipynb"
         },
@@ -12,17 +41,17 @@
             "path": "/custom/blogs/VAE and DDPM.ipynb"
         },
         {
-            "content": "Magic Einops",
+            "content": "Magic Einops（神奇的爱因斯坦操作）",
             "timestamp": "2024/12/28",
             "path": "/custom/blogs/Magic einops.ipynb"
         },
         {
-            "content": "Fancy Indexing",
+            "content": "Fancy Indexing（花式索引）",
             "timestamp": "2024/12/28",
             "path": "/custom/blogs/Fancy Indexing.ipynb"
         },
         {
-            "content": "State Space Model",
+            "content": "State Space Model（状态空间模型）",
             "timestamp": "2024/10/8",
             "path": "/custom/blogs/SSM.md"
         },
@@ -32,7 +61,7 @@
             "path": "/custom/blogs/auto gradient.ipynb"
         },
         {
-            "content": "Score Matching",
+            "content": "Score Matching（分数匹配）",
             "timestamp": "2024/5/20",
             "path": "/custom/blogs/score_matching.md"
         },
