@@ -124,6 +124,7 @@ onMounted(async () => {
 .photo {
   width: 40%;
   height: auto;
+  min-width: 200px;
 }
 
 .photo img {

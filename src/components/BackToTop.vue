@@ -6,7 +6,8 @@
       @click="scrollToTop"
       title="回到顶部"
     >
-      <Location />
+      <!-- <Location /> -->
+       <img src="../assets/up-arrow.png" style="width: 50px; height: auto;"/>
     </el-icon>
   </transition>
 </template>
@@ -37,7 +38,7 @@ onUnmounted(() => {
 <style scoped>
 .back-to-top {
   position: fixed;
-  bottom: 30px;
+  top: 30px;
   right: 30px;
   font-size: 32px;
   color: #2c92ff;

@@ -1,6 +1,24 @@
 {
     "publications": [
         {
+            "title": "Learning Time-Aware Causal Representation for Model Generalization in Evolving Domains",
+            "conference": "ICML 2025",
+            "authors": "Zhuo He, Shuang Li, Wenze Song, <b style='font-style: italic'>Longhui Yuan</b>, Jian Liang, Han Li, Kun Gai",
+            "introduction": "We propose SYNC, a novel method for evolving domain generalization that learns time-aware causal representations by modeling dynamic causal factors and mechanism drifts, achieving robust generalization across temporal domains.",
+            "paper_link": "https://arxiv.org/pdf/2506.17718",
+            "code_link": "https://github.com/BIT-DA/SYNC",
+            "img_link": "custom/images/SYNC.png"
+        },
+        {
+            "title": "Exploring structured semantic priors underlying diffusion score for test-time adaptation",
+            "conference": "NeurIPS 2024",
+            "authors": "Mingjia Li, Shuang Li, Tongrui Su, <b style='font-style: italic'>Longhui Yuan</b>, Jian Liang, Wei Li",
+            "introduction": "We propose a novel test-time adaptation method, DUSA, which leverages the structured semantic priors in diffusion models to efficiently adapt pre-trained discriminative models under diverse test-time scenarios.",
+            "paper_link": "https://proceedings.neurips.cc/paper_files/paper/2024/file/16986b69068fbe6acf64eb6566519c74-Paper-Conference.pdf",
+            "code_link": "https://github.com/BIT-DA/DUSA",
+            "img_link": "custom/images/DUSA.png"
+        },
+        {
             "title": "Robust Test-Time Adaptation in Dynamic Scenarios",
             "conference": "CVPR 2023",
             "authors": "<b style='font-style: italic'>Longhui Yuan</b>, Binhui Xie, Shuang Li",
@@ -34,15 +52,24 @@
             "introduction": "A new perspective to select a highly informative subset of unlabeled target data under domain shift via exploiting free energy biases across domains.",
             "paper_link": "https://arxiv.org/abs/2112.01406",
             "code_link": "https://github.com/BIT-DA/EADA",
-            "img_link": "/custom/images/aaai2022_EADA.png"
+            "img_link": "/custom/images/EADA.png"
         }
     ],
     "preprints": [
         {
+            "title": "Unleashing the Potential of Text-Image Models for Test-Time Adaptation",
+            "conference": "technique report",
+            "authors": "<b style='font-style: italic'>Longhui Yuan</b>, Shuang Li, Mixue Xie, Mingjia Li, Zhuo He, Zixun Sun, Ke Feng",
+            "introduction": "We propose AKI-TTA, a novel test-time adaptation framework that leverages multimodal knowledge from large-scale pretrained text-image models to enhance the adaptation of task models under distribution shifts.",
+            "paper_link": "",
+            "code_line": "",
+            "img_link": "/custom/images/AKITTA.png"
+        },
+        {
             "title": "Generalized Robust Test-Time Adaptation in Continuous Dynamic Scenarios",
             "conference": "technique report",
             "authors": "Shuang Li, <b style='font-style: italic'>Longhui Yuan</b>, Binhui Xie, Tao Yang",
-            "introduction": "We extend our preliminary work RoTTA to a generalized approach, i.e., GRoTTA.",
+            "introduction": "We propose GRoTTA, a robust test-time adaptation method under a practical setting where both covariate and label shifts occur continually, achieving strong generalization through parameter adaptation, batch norm recalibration, and bias-guided output refinement.",
             "paper_link": "https://arxiv.org/abs/2310.04714",
             "code_line": "",
             "img_link": "/custom/images/GRoTTA.png"
@@ -51,7 +78,7 @@
             "title": "Few Clicks Suffice: Active Test-Time Adaptation for Semantic Segmentation",
             "conference": "technique report",
             "authors": "<b style='font-style: italic'>Longhui Yuan</b>, Shuang Li, Zhuo He, Binhui Xie",
-            "introduction": "We propose the active test-time adaptation for semantic segmentation setup and launch a simple but effective framework, i.e., ATASeg.",
+            "introduction": "We propose ATASeg, an active test-time adaptation framework for semantic segmentation that introduces human-in-the-loop supervision with minimal annotations, effectively bridging the gap between unsupervised TTA and fully supervised methods.",
             "paper_link": "https://arxiv.org/abs/2312.01835",
             "code_line": "",
             "img_link": "/custom/images/ATASeg.png"
